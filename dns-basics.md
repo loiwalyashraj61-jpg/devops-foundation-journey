@@ -77,5 +77,6 @@ Understanding DNS is important for:
 - Networking
 - DevOps
 - Cloud
+
 - Server communication
 - Production debugging
