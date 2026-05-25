@@ -1,4 +1,5 @@
-# DevOps Foundation Journey 🚀
+ HEAD
+# DevOps Foundation Journey 
 
 This repository contains my practical learning journey toward becoming a DevOps / Cloud Engineer.
 
@@ -49,3 +50,7 @@ Building strong system and networking fundamentals before moving toward:
 - Real infrastructure thinking
 - Production-oriented learning
 
+
+Hello World
+New line added git add git commit -m testing SSH push git push
+ 0e008ac (updated readme)
